@@ -12,7 +12,7 @@
 
 </picture> <h1 align="center"><b> Contenidos </b></h1>
 
-eclaración y Asignación
+✔ Declaración y Asignación
 
 ✔ Solicitud e Impresión
 
