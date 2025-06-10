@@ -1,0 +1,43 @@
+CONSIGNAS
+1. Preguntar la edad al usuario y determinar si es mayor o menor de edad.
+
+2. Solicitar una nota (0 a 10) y mostrar si está aplazados (1 a 3), desaprobado (4 a 6), aprobado (7a 8) o
+sobresaliente (9 a 10).
+
+3. Mostrar los números pares del 1 al 50 en consola usando for.
+
+4. Crear un arrays de tipo String con 8 elementos y realizar:
+    a. Cargar al comienzo el siguiente elemento “Ignacio”
+    b. Eliminar el Ultimo elemento
+    c. Acomodar el Arrays e Imprimir el resultado Final.
+
+5. Crear un objeto persona con Nombre, Edad y Ciudad. Mostrar y reemplazar:
+    a. Mostrar el Nombre de una Persona.
+    b. Solicitar por pantalla una nueva Edad y reemplazar el dato almacenado en el objeto.
+
+6. En HTML generar un Contenedor y agregarle mediante el DOM lo siguiente:
+    a. Una Imagen
+    b. Un titulo
+    c. Un Párrafo
+    d. Un Botón
+
+7. Crear un array de 3 personas y mostrar los nombres mediante el DOM utilizando forEach.
+
+8. Mostrar una lista de nombres usando forEach en una lista HTML.
+
+9. Realizar un Arrays de 10 elementos de la siguiente Temática: 10 selecciones de Futbol. Y Determinar:
+    a. Filtrar los elementos por Copas Mundiales.
+    b. Filtrar los elementos por el Jugador estrella de cada Equipo.
+
+10. Dado el Arrays Proporcionado, Modifica el código para que solicite el apellido y busque una
+coincidencia exacta.
+
+11. Solicitá un número de teléfono y buscá en el array a la persona que lo tenga registrado.
+
+12. Simulá que si no se encuentra ningún usuario, se dispare el reject() con un mensaje personalizado.
+
+13. Usá setTimeout con un tiempo de espera aleatorio entre 1 y 5 segundos antes de resolver la
+búsqueda de un país.
+
+14. Mostrá un mensaje " Cargando datos..." antes del setTimeout, y luego limpia la consola al
+resolverse. Al buscar la siguiente propiedad: profesión
